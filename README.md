@@ -23,11 +23,12 @@ This project implements a Pix2Pix (Conditional GAN) model for converting **build
 
 Generated images from the test set:
 
+## 📷 Sample Output from Pix2Pix
+
 | Input (Edge Map) | Generated Image | Ground Truth |
 |------------------|------------------|---------------|
-| ✅ input         | 🎨 fake_B        | 🏠 real_B     |
+| ![](https://github.com/tusharparmar29/PRODIGY_GA_04/blob/main/results/1_real_A.png?raw=true) | ![](https://github.com/tusharparmar29/PRODIGY_GA_04/blob/main/results/1_fake_B.png?raw=true) | ![](https://github.com/tusharparmar29/PRODIGY_GA_04/blob/main/results/1_real_B.png?raw=true) |
 
-(*See `results/facades_pix2pix/test_latest/images/` for full outputs*)
 
 ---
 
