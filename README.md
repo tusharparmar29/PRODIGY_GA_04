@@ -34,8 +34,7 @@ Generated images from the test set:
 
 ## 📁 Files Included
 
-- `train.py` – for training
-- `test.py` – for testing
+- `Pix2Pix_Task_04.ipynb` – full Colab notebook (training, testing, and results)
 - `results/` – output images
 - `README.md` – project summary
 
