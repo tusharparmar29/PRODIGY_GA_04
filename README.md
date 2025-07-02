@@ -1,7 +1,4 @@
 # Task-04: Image-to-Image Translation with Pix2Pix
-
-### Internship: Prodigy Infotech – Generative AI (15 June – 15 July 2025)
-
 ---
 
 ## 🔍 Overview
